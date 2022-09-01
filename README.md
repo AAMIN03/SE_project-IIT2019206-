@@ -1,4 +1,4 @@
-# Software Engineering(course group project)
+# Software Engineering course (Group project)
 
 1. Login and Register     ✓
 2. Photo Upload           ✓
