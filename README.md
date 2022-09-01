@@ -1,4 +1,4 @@
-# SE-IIT2019123
+# Software Engineering(course group project)
 
 1. Login and Register     ✓
 2. Photo Upload           ✓
