@@ -1,4 +1,4 @@
-# Software Engineering course (Group project)
+# SMART OCCUPANCY MONITORING SYSTEM (Group project)
 
 1. Login and Register     ✓
 2. Photo Upload           ✓
